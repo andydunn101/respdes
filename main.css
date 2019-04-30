@@ -4,6 +4,10 @@ body, html {
     color: rgba(255, 255, 255, .8);
 }
 
+.main {
+    height: 100%;
+}
+
 .header {
     position: fixed;
     top: 0;
@@ -13,9 +17,6 @@ body, html {
     padding: 15px 25px;
 }
 
-.main {
-    height: 100%;
-}
 
 .section {
     background-color: #0097d3;
@@ -30,7 +31,7 @@ body, html {
 
 .section-paragraph {
     font-size: 1em;
-    margin: 25%;
+    margin: 5%;
 }
 
 .footer {
