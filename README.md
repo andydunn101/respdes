@@ -1,4 +1,4 @@
-#Responsive Design - Mini Project
+# Responsive Design - Mini Project
 
 This is a tutor led project to help understand the funamentals of
 responsive design, using the mobile first principles
